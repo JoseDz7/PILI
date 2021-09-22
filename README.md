@@ -7,3 +7,4 @@ Tener antes instalado los repositorios básicos
 Funcionando para térmux, Kali Linux y parrot security
 
 # Menu Termux..
+![Image text](https://github.com/piratainformatico2/PILI/blob/main/images/Screenshot_20210921-222332.png)
