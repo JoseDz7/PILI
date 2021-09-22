@@ -4,3 +4,6 @@ Sharkcode and julioCj7 || Pili es capas de obtener virus y todo lo capas para ha
 
 # Iniciando..
 Tener antes instalado los repositorios básicos
+Funcionando para térmux, Kali Linux y parrot security
+
+# Menu Termux..
