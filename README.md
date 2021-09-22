@@ -22,7 +22,7 @@ Funcionando para térmux, Kali Linux y parrot security
 # Instalación..
 * ` apt-get update && apt-get upgrade -y `
 
-* ` git clone https://github.com/piratainformatico2/Base64 `
+* ` git clone https://github.com/piratainformatico2/PILI `
 * ` cd PILI `
 * ` chmod 775 pili.sh `
 * ` bash pili.sh `
