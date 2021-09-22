@@ -8,3 +8,11 @@ Funcionando para térmux, Kali Linux y parrot security
 
 # Menu Termux..
 ![Image text](https://github.com/piratainformatico2/PILI/blob/main/images/Screenshot_20210921-222332.png)
+
+# Instalación..
+* ` apt-get update && apt-get upgrade -y `
+
+* ` git clone https://github.com/piratainformatico2/Base64 `
+* ` cd PILI `
+* ` chmod 775 pili.sh `
+* ` bash pili.sh `
