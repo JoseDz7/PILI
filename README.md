@@ -15,7 +15,7 @@
 <summary> ⚡ José Díaz ⚡ </summary>
 <br>
 
-  Hola Que tal soy José Díaz o sharkcode Mi objetivo es ser reconocido en la comunidad de la programación ⚡
+- Hola Que tal soy José Díaz o sharkcode Mi objetivo es ser reconocido en la comunidad de la programación ⚡
 
 - Este repositorio lo hice con mucho mucho cariño, para todos ustedes que son de termux una terminal de Linux para Android 🎮
 
