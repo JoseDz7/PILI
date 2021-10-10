@@ -29,8 +29,14 @@
 ## Menu principal :
 ![Image text](https://github.com/piratainformatico2/PILI/blob/main/images/Screenshot_20210921-222332.png)
 
+## Instalación :
 
 
+~~~
+https://github.com/piratainformatico2/virusV1
+~~~
+
+* `apt update && apt upgrade -y`
 
 
 <!-- MarkDown Links & Images -->
