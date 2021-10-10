@@ -33,7 +33,7 @@
 
 
 ~~~
-https://github.com/piratainformatico2/virusV1
+https://github.com/piratainformatico2/PILI
 ~~~
 
 * `apt update && apt upgrade -y`
